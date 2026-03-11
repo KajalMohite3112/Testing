@@ -1,5 +1,5 @@
     "Version": {
-        "V": "V1.4"
+        "V": "V1.3"
     },
     "Device": {
         "Name": "ESP32_Device",
