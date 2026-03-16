@@ -1,14 +1,14 @@
 {
     "Version": {
-        "V": "V1.12"
+        "V": "V1.13"
     },
     "Device": {
         "Name": "ESP32_Device",
         "ID": "ESP001"
     },
     "Wifi": {
-        "SSID": "SM-0DC5-4-4G",
-        "Password": "05022026-4"
+        "SSID": "vivo V50e",
+        "Password": "Kajalmohite"
     },
     "Settings": {
         "Interval_Min": 30,
