@@ -7,8 +7,8 @@
         "ID": "ESP001"
     },
     "Wifi": {
-        "SSID": "vivo V502",
-        "Password": "Kajalmohite"
+        "SSID": "Sayali",
+        "Password": "12345678"
     },
     "Settings": {
         "Interval_Min": 30,
