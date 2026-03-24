@@ -1,0 +1,18 @@
+{
+
+    "Version": {
+        "V": "V1.5"
+    },
+    "Device": {
+        "Name": "ESP32_Device",
+        "ID": "ESP001"
+    },
+    "Wifi": {
+        "SSID": "vivo V50e",
+        "Password": "Kajalmohite"
+    },
+    "Settings": {
+        "Interval_Min": 30,
+        "Log_Enable": true
+    }
+}
