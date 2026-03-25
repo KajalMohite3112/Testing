@@ -1,15 +1,15 @@
 {
 
     "Version": {
-        "V": "V1.6"
+        "V": "V1.7"
     },
     "Device": {
         "Name": "ESP32_Device",
         "ID": "ESP001"
     },
     "Wifi": {
-        "SSID": "Sayali",
-        "Password": "12345678"
+        "SSID": "SM-0CD5-4-4G",
+        "Password": "05022026-4"
     },
     "Settings": {
         "Interval_Min": 30,
