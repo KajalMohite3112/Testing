@@ -1,13 +1,13 @@
 {
     "Version": {
-        "V": "V2.1"
+        "V": "V2.2"
     },
     "Device": {
         "Name": "ESP32_Device",
         "ID": "WD02"
     },
     "Wifi": {
-        "SSID": "SM-0CD5-5-4G",
+        "SSID": "SM-0CA5-5-4G",
         "Password": "05022026-5"
     },
     "Settings": {
