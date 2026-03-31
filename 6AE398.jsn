@@ -4,7 +4,7 @@
     },
     "Device": {
         "Name": "ESP32_Device",
-        "ID": "ESP001"
+        "ID": "WD02"
     },
     "Wifi": {
         "SSID": "SM-0CD5-4-4G",
