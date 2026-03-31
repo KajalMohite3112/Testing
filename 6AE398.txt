@@ -1,10 +1,10 @@
 {
     "Version": {
-        "V": "V1.9"
+        "V": "V2.1"
     },
     "Device": {
         "Name": "ESP32_Device",
-        "ID": "ESP001"
+        "ID": "WD02"
     },
     "Wifi": {
         "SSID": "SM-0CD5-4-4G",
