@@ -1,17 +1,23 @@
 {
     "Version": {
-        "V": "V1.14"
+        "V": "V1.15"
     },
     "Device": {
         "Name": "ESP32_Device",
-        "ID": "ESP001"
+        "ID": "WD03"
     },
     "Wifi": {
-        "SSID": "SM-0CD5-4-4G",
-        "Password": "05022026-4"
+        "SSID": "SM-0CA5-5-4G",
+        "Password": "05022026-5"
     },
     "Settings": {
         "Interval_Min": 30,
         "Log_Enable": true
+    },
+    "Github": {
+        "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main"
+    },
+    "MQTT": {
+    "DATA": "WD03/DATA"
     }
 }
