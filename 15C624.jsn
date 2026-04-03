@@ -18,7 +18,7 @@
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
     "MQTT": {
-    "DATA": "W/WD04/DATA"
+    "DATA": "W/WD05/DATA"
     },
     "MQTTBACKUP": {
     "BACKUP": "W/WD05/BACKUP"
