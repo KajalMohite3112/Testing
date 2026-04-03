@@ -18,6 +18,6 @@
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
     "MQTT": {
-    "DATA": "WD04/DATA"
+    "DATA": "W/WD04/DATA"
     }
 }
