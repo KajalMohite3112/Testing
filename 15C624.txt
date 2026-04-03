@@ -1,14 +1,14 @@
 {
     "Version": {
-        "V": "V2.4"
+        "V": "V2.6"
     },
     "Device": {
         "Name": "ESP32_Device",
-        "ID": "WD01"
+        "ID": "WD05"
     },
     "Wifi": {
-        "SSID": "SM-0CA5-5-4G",
-        "Password": "05022026-5"
+        "SSID": "SM-0CD5-4-4G",
+        "Password": "05022026-4"
     },
     "Settings": {
         "Interval_Min": 30,
@@ -18,6 +18,9 @@
         "BaseURL": "https://raw.githubusercontent.com/sayalibhagat08/SHM_TestingRepo/refs/heads/main/"
     },
     "MQTT": {
-    "DATA": "W/WD01/DATA"
+    "DATA": "W/WD04/DATA"
+    },
+    "MQTTBACKUP": {
+    "BACKUP": "W/WD05/BACKUP"
     }
 }
