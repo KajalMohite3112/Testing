@@ -23,7 +23,7 @@
     "MQTTBACKUP": {
     "BACKUP": "W/WD05/BACKUP"
     },
-    "MQTTOTA" {
+    "MQTTOTA": {
     "OTA": W/WD05/OTA"
     }
 }
