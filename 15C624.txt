@@ -24,6 +24,6 @@
     "BACKUP": "W/WD05/BACKUP"
     },
     "MQTTOTA": {
-    "OTA": W/WD05/OTA"
+    "OTA": "W/WD05/OTA"
     }
 }
