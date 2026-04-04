@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.8"
+        "V": "V2.10"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -22,5 +22,8 @@
     },
     "MQTTBACKUP": {
     "BACKUP": "W/WD05/BACKUP"
+    },
+    "MQTTOTA" {
+    "OTA": W/WD05/OTA"
     }
 }
