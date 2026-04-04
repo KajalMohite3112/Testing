@@ -1,6 +1,6 @@
 {
     "Version": {
-        "V": "V2.10"
+        "V": "V2.12"
     },
     "Device": {
         "Name": "ESP32_Device",
@@ -25,5 +25,8 @@
     },
     "MQTTOTA": {
     "OTA": "W/WD05/OTA"
+    },
+   "SYSBH": {
+    "HEARTBEAT": "W/WD05/HEARTBEAT"
     }
 }
